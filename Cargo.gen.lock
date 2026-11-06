@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "cargo_lock_sha256": "d2389c57e5ab2fe955e565e4ea3e8a7037ca1752abf705ba15382b2d8d2fd753",
+  "cargo_lock_sha256": "58859c136772f30468a7e5a291575798348f62941e955e56b3edaf88652ea0a2",
   "manifest_sha256": {
-    "Cargo.toml": "320325e07fe0e62ee591cd605eb270b9e0325748cea29cea48953aae1b0998b2"
+    "Cargo.toml": "d23290edfd86cfc2b8cd813dfa3ad8dfc6ea63dab6289d066af13a3b6e35484a"
   },
   "target_resolves": {
     "base": {
@@ -172,7 +172,7 @@
           "std"
         ]
       },
-      "cc-1.11.0": {
+      "cc-1.11.1": {
         "runtime_dependencies": [
           {
             "name": "find_msvc_tools",
@@ -745,7 +745,7 @@
           "std"
         ]
       },
-      "pegada-0.1.0": {
+      "pegada-0.1.1": {
         "runtime_dependencies": [
           {
             "name": "kotae",
@@ -1810,7 +1810,7 @@
             "build_dependencies": [
               {
                 "name": "cc",
-                "package_key": "cc-1.11.0",
+                "package_key": "cc-1.11.1",
                 "kind": "build",
                 "features": [],
                 "uses_default_features": true,
@@ -2091,7 +2091,7 @@
             "build_dependencies": [
               {
                 "name": "cc",
-                "package_key": "cc-1.11.0",
+                "package_key": "cc-1.11.1",
                 "kind": "build",
                 "features": [],
                 "uses_default_features": true,
@@ -2415,7 +2415,7 @@
             "build_dependencies": [
               {
                 "name": "cc",
-                "package_key": "cc-1.11.0",
+                "package_key": "cc-1.11.1",
                 "kind": "build",
                 "features": [],
                 "uses_default_features": true,
@@ -2749,7 +2749,7 @@
             "build_dependencies": [
               {
                 "name": "cc",
-                "package_key": "cc-1.11.0",
+                "package_key": "cc-1.11.1",
                 "kind": "build",
                 "features": [],
                 "uses_default_features": true,
@@ -3126,7 +3126,7 @@
             "build_dependencies": [
               {
                 "name": "cc",
-                "package_key": "cc-1.11.0",
+                "package_key": "cc-1.11.1",
                 "kind": "build",
                 "features": [],
                 "uses_default_features": true,
@@ -3546,7 +3546,7 @@
             "build_dependencies": [
               {
                 "name": "cc",
-                "package_key": "cc-1.11.0",
+                "package_key": "cc-1.11.1",
                 "kind": "build",
                 "features": [],
                 "uses_default_features": true,
@@ -3963,7 +3963,7 @@
     "bytes-1.12.1": {
       "edition": "2021"
     },
-    "cc-1.11.0": {
+    "cc-1.11.1": {
       "edition": "2021"
     },
     "cfg-if-1.0.5": {
@@ -4075,7 +4075,7 @@
     "once_cell-1.21.4": {
       "edition": "2021"
     },
-    "pegada-0.1.0": {
+    "pegada-0.1.1": {
       "edition": "2024",
       "lib_target": {
         "name": "pegada",

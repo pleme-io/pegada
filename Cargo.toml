@@ -1,6 +1,6 @@
 [package]
 name = "pegada"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 rust-version = "1.89.0"
 description = "Pegada — the footprint a lifecycle leaves where it stood, and the typed proof that it is gone. Membership recorded at create time and cross-checked by discovery; absence only as present-then-absent from a probe that answered; a Reaped value constructible only from proof that every owned member is gone."
