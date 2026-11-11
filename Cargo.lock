@@ -666,9 +666,9 @@ dependencies = [
 
 [[package]]
 name = "tameshi"
-version = "0.1.10"
+version = "0.1.11"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "660f8d93cdf7c1ff43027c37e076ccbf6a8624354903fdde35c66a759e1820c2"
+checksum = "2837c637b2402f186db11eebc7c94cb86ae79d7acb2d7bdbf38ee337251ccc21"
 dependencies = [
  "blake3",
  "const-hex",

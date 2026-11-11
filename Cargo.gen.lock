@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "cargo_lock_sha256": "58859c136772f30468a7e5a291575798348f62941e955e56b3edaf88652ea0a2",
+  "cargo_lock_sha256": "16e0a4e921adb5aca38b48f27b234d43111f44e14e554705339f1f719c292f7d",
   "manifest_sha256": {
     "Cargo.toml": "d23290edfd86cfc2b8cd813dfa3ad8dfc6ea63dab6289d066af13a3b6e35484a"
   },
@@ -771,7 +771,7 @@
           },
           {
             "name": "tameshi",
-            "package_key": "tameshi-0.1.10",
+            "package_key": "tameshi-0.1.11",
             "kind": "normal",
             "features": [
               "content-address"
@@ -1442,7 +1442,7 @@
           "proc-macro"
         ]
       },
-      "tameshi-0.1.10": {
+      "tameshi-0.1.11": {
         "runtime_dependencies": [
           {
             "name": "blake3",
@@ -4167,7 +4167,7 @@
     "syn-3.0.9": {
       "edition": "2021"
     },
-    "tameshi-0.1.10": {
+    "tameshi-0.1.11": {
       "edition": "2024",
       "binaries": [
         {
